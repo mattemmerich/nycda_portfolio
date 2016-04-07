@@ -1,0 +1,63 @@
+<stylesheet>
+
+
+{
+	margin: 0px;
+	paddding: 0px;
+	}
+	
+#container {
+		position: fixed;
+		background: #FFFFFF;
+		width: 100%;
+		margin: 0px;
+		}
+
+	#header{
+		width:100%;
+		
+	}
+
+	#nav a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;	
+    text-decoration: none;
+    display: inline-block;
+    font-family: helvetica;
+    margin: center;
+}
+
+
+	#nav a:hover, a:active {
+    background-color: red;
+}
+		
+	}
+
+	#img{
+		background: #000000;
+		
+	}
+
+	#content{
+		border-radius: 8px;
+		padding: 20px;
+		
+
+	}
+
+	
+
+	#footer{
+		background-color: #FFFFFF;
+		font-family: helvetica;
+		text-align: center;
+		padding: 1px;
+	}
+
+	#social{
+		clear: both;
+	
+	}
